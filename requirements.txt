@@ -1,0 +1,7 @@
+streamlit
+pandas
+lxml
+numpy
+seaborn
+matplotlib
+base58

@@ -46,9 +46,11 @@ If you want to run the app locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
+Here are a few snapshots of the web application!
 
 ![Screenshot 2024-09-29 133742](https://github.com/user-attachments/assets/231be541-4ca5-40bf-a32b-9b375aeb22bb)
 
+![Screenshot 2024-09-29 134049](https://github.com/user-attachments/assets/3a3f886d-b2cf-459f-9af8-84bbf6f1846a)
 
 ## 📝 License
 This project is licensed under the MIT License.

@@ -47,6 +47,9 @@ If you want to run the app locally, follow these steps:
    streamlit run app.py
    ```
 
+![Screenshot 2024-09-29 133742](https://github.com/user-attachments/assets/231be541-4ca5-40bf-a32b-9b375aeb22bb)
+
+
 ## 📝 License
 This project is licensed under the MIT License.
 
